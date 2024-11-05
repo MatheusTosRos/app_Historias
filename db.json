@@ -1,0 +1,20 @@
+{
+    "stories": [
+      {
+        "id": 1,
+        "title": "A Lenda do Boto Cor de Rosa",
+        "content": "Segundo a lenda amazônica, o boto cor de rosa se transforma em um belo jovem vestido de branco que seduz as moças durante as festas...",
+        "category": "Folklore",
+        "imageUrl": "https://placeholder.com/boto",
+        "region": "North"
+      },
+      {
+        "id": 2,
+        "title": "Inconfidência Mineira",
+        "content": "A Inconfidência Mineira foi uma conspiração de natureza separatista que ocorreu na capitania de Minas Gerais...",
+        "category": "Historical",
+        "imageUrl": "https://placeholder.com/inconfidencia",
+        "region": "Southeast"
+      }
+    ]
+  }
